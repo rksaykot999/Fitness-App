@@ -1,0 +1,1 @@
+{\n  "name": "fitness-app",\n  "version": "1.0.0",\n  "private": true,\n  "dependencies": {\n    "react": "^17.0.1",\n    "react-native": "^0.64.0",\n    "expo": "~42.0.0",\n    "react-navigation": "^4.4.4"\n  },\n  "devDependencies": {\n    "typescript": "^4.0.0"\n  }\n}
